@@ -1,4 +1,4 @@
-# LispInterpreter
+# Lisp Interpreter
 
 Implemented interpreter for Scheme language.
 
